@@ -4,4 +4,4 @@ seaborn
 matplotlib
 
 
--e .
+# -e .
