@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: mlproject
+Version: 0.0.1
+Summary: A machine learning project
+Author: Hussain
+Author-email: hussainmadar4@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
